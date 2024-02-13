@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="7-Zip.x64" Version="16.2.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
